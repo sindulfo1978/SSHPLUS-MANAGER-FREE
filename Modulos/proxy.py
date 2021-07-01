@@ -5,7 +5,7 @@ import socket, threading, thread, select, signal, sys, time
 from os import system
 system("clear")
 #conexao
-IP = '0.0.0.0'
+IP = '10.0.0.60'
 try:
    PORT = int(sys.argv[1])
 except:
