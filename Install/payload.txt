@@ -1,8 +1,8 @@
-.claro.com.br
+.claro.com.ar
 .claro.com.sv
 .facebook.net
-.netclaro.com.br
+.netclaro.com.ar
 .speedtest.net
-.tim.com.br
-.vivo.com.br
-.oi.com.br 
+.personal.com.ar
+.movistar.com.ar
+.oi.com.ar
